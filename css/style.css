@@ -1,0 +1,30 @@
+.panda-bg-info {
+    background-color: #FEEAE9;
+}
+
+.logo-img {
+    width: 100%;
+    height: auto;
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: auto;
+}
+
+.categories img {
+    width: 100px;
+}
+
+.panda-btn-buy-now {
+    background: linear-gradient(to bottom, #FF5898, #FF136F);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    text-decoration: none;
+}
+
+.panda-btn-buy-now:hover {
+    color: #fff;
+}
